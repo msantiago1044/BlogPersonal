@@ -23,7 +23,11 @@ section {
   margin-bottom: 30px;
 }
 
-h1, h2 {
+h1 {
+  color: #C0C0C0;
+  text-align: center;
+}
+h2 {
   color: #333;
   text-align: center;
 }
